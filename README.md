@@ -9,7 +9,7 @@ A custom Sails.js hook to add support for logging using the popular Winston libr
 * AWS CloudWatch (based on LazyWithClass's [Winston CloudWatch](https://github.com/lazywithclass/winston-cloudwatch))
 
 ## Installation
-Make sure you have at least Sails.js version v0.11.0 installed.
+Make sure you have at least Sails.js version v0.12.0 installed.
 
 ```ssh
 npm install sails-hook-winstonlogger --save
