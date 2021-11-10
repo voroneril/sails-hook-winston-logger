@@ -24,5 +24,20 @@
   "bugs": {
     "url": "https://github.com/redcon-bscheuch/sails-hook-winston-logger/issues"
   },
-  "homepage": "https://github.com/redcon-bscheuch/sails-hook-winston-logger#readme"
+  "homepage": "https://github.com/redcon-bscheuch/sails-hook-winston-logger#readme",
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "mkdirp": "^0.5.1",
+    "winston": "^1.0.0",
+    "winston-cloudwatch": "^0.3.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.2.5",
+    "sails": "^0.11.0"
+  },
+  "sails": {
+    "isHook": true
+  }
 }
