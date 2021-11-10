@@ -1,5 +1,5 @@
 {
-  "name": "sails-hook-winstonlogger",
+  "name": "sails-hook-winston-logger",
   "version": "0.0.1",
   "description": "A custom Sails.js hook to add support for Winston logging",
   "main": "lib/logger.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/UzEE/sails-hook-winston-logger.git"
+    "url": "https://github.com/redcon-bscheuch/sails-hook-winston-logger.git"
   },
   "keywords": [
     "sailsjs",
@@ -20,12 +20,12 @@
     "logging",
     "sails"
   ],
-  "author": "Uzair Sajid <uzee@uzeeinc.net> (http://uzairsajid.com)",
+  "author": "Björn Scheuch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UzEE/sails-hook-winston-logger/issues"
+    "url": "https://github.com/redcon-bscheuch/sails-hook-winston-logger/issues"
   },
-  "homepage": "https://github.com/UzEE/sails-hook-winston-logger",
+  "homepage": "https://github.com/redcon-bscheuch/sails-hook-winston-logger",
   "dependencies": {
     "lodash": "^3.9.3",
     "mkdirp": "^0.5.1",
@@ -36,7 +36,7 @@
     "grunt": "^0.4.5",
     "grunt-mocha-test": "^0.12.7",
     "mocha": "^2.2.5",
-    "sails": "^0.11.0"
+    "sails": "^0.12.0"
   },
   "sails": {
     "isHook": true

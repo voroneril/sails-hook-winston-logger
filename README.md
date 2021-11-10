@@ -1,7 +1,4 @@
 # Sails Winston Logger
-
-[![Build Status](https://travis-ci.org/UzEE/sails-hook-winston-logger.svg?branch=master)](https://travis-ci.org/UzEE/sails-hook-winston-logger)
-
 A custom Sails.js hook to add support for logging using the popular Winston library. Currently, the module comes with out of the box support for the following trasports:
 
 * Console (will automatically be activated by default)
