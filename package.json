@@ -1,6 +1,6 @@
 {
   "name": "@bscheuch/sails-hook-winston-logger",
-  "version": "0.0.1d",
+  "version": "0.0.1e",
   "description": "Fork of sails-hook-winston-logger for sailsjs 0.12",
   "main": "lib/logger.js",
   "directories": {
