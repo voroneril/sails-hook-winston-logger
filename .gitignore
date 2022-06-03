@@ -28,3 +28,4 @@ node_modules
 
 # Editor Files
 *.sublime-*
+/.project
